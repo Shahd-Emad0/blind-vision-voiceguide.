@@ -1,0 +1,14 @@
+opencv-python
+tensorflow
+pyttsx3
+SpeechRecognition
+pyaudio
+```
+streamlit
+ultralytics
+opencv-python
+pyttsx3
+gTTS
+pillow
+simpleaudio
+```
